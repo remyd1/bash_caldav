@@ -1,0 +1,8 @@
+# owncloud server
+user="user:pass"
+short_url="http://nextcloud.example.com"
+caldav_url=$short_url"/owncloud/remote.php/caldav/calendars/..."
+
+# local radicale server
+#short_url="http://localhost:5232"
+#caldav_url=$short_url"/user/calendar.ics/"
